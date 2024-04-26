@@ -12,4 +12,4 @@ This is my first local change to the repo!
 
 
 **Bold Text** or __Bold Text__
-**italicised text**
+*Italicised Text*
