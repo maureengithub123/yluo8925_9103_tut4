@@ -9,3 +9,7 @@ This is my first local change to the repo!
 ### Heading 3
 #### Heading 4 
 ##### Heading 5
+
+
+**Bold Text** or __Bold Text__
+__italicised text__
